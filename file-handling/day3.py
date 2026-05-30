@@ -1,4 +1,4 @@
-with open("log.txt","r") as file:
+with open("file-handling/log.txt","r") as file:
     error_count = 0
     info_count = 0
     warning_count = 0
